@@ -1,2 +1,2 @@
 Simple Calculator
-CodSoft internship
+[CodSoft internship]
